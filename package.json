@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.28.5",
+    "drizzle-valibot": "^0.1.1",
+    "typescript": "^5.2.2",
+    "valibot": "^0.13.1"
+  }
+}
